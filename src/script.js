@@ -1,5 +1,4 @@
 // La idea es simular una lista de tareas que puedes agregar, marcar como completadas o eliminar.
-import { agregarDescripcion } from "./usecases/index.js";
 
 //INICIALIZACION DE VARIABLES
 let listaTareas = [{tarea: 'Aprender Javascript', estado: 'Pendiente', descripcion: 'test'}];

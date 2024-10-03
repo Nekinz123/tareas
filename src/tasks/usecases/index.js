@@ -1,0 +1,1 @@
+export { agregarDescripcion } from "./add-description";
